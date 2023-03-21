@@ -1,0 +1,17 @@
+Script started on 2023-02-14 11:46:49-0500
+amckee@odd23:~/2400/Labs/lab5$ ./.a[K[Ka.out
+Please enter temperatures for the month of February: 69
+54
+Please enter temperatures for the month of February: 57
+45
+Please enter temperatures for the month of February: 62
+39
+Please enter temperatures for the month of February: -100
+The highest temperature in February was 69 degrees.
+The lowest temperature in February was 39 degrees.
+amckee@odd23:~/2400/Labs/lab5$ exit
+exit
+
+Script done on 2023-02-14 11:48:04-0500
+
+Allison McKee
